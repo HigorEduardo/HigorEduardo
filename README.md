@@ -3,7 +3,10 @@ Me chamo Higor Eduardo, Nascido em Florianópolis em 2006, possuo atualmente 17 
 
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtmMVhLnhnTGPPsmzsNbKBfSLQnbPMQjbvHcgjFFTHCqFNKDwncdgckgLtzcJPnmBlSvb)([https://facebook.com/higoreduardo.dasilva](https://www.facebook.com/higoreduardo.dasilva)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bthhigoroficial) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bth_higor) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbtmMVhLnhnTGPPsmzsNbKBfSLQnbPMQjbvHcgjFFTHCqFNKDwncdgckgLtzcJPnmBlSvb)
+[![Facebook](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)]([https://facebook.com/higoreduardo.dasilva](https://www.facebook.com/higoreduardo.dasilva)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bthhigoroficial) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bth_higor) 
 
 
 # 💻 Tech Stack:
