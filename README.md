@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Me chamo Higor Eduardo, Nascido em Florianópolis em 2006, possuo atualmente 17 anos e curso o ensino médio na Escola S em São José.<br><br>Formação: Cursando Ensino médio na escola S<br>Cursando Fundamentos de TI<br>Cursando Banco de Dados<br>Cursando Design<br>Cursando Lógica computacional
+Me chamo Higor Eduardo, Nascido em Florianópolis em 2006, possuo atualmente 18 anos e curso o ensino médio na Escola S em São José.<br><br>Formação: Cursando Ensino médio na escola S<br>Cursando Fundamentos de TI<br>Cursando Banco de Dados<br>Cursando Design<br>Cursando Lógica computacional
 
 
 ## 🌐 Redes Sociais:
